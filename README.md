@@ -1,8 +1,20 @@
 ### Hi there 👋
 
-[![ArchiFleKs's GitHub stats](https://github-readme-stats.vercel.app/api?username=archifleks&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archifleks&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=symplegma&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=archifleks&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/particuleio/symplegma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=symplegma&theme=synthwave" />
+</a>
+<a href="https://github.com/particuleio/teks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=teks&theme=synthwave&show_owner" />
+</a>
+<a href="https://github.com/particuleio/tkap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=tkap&theme=synthwave&show_owner" />
+</a>
+<a href="https://github.com/particuleio/terraform-kubernetes-addons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=terraform-kubernetes-addons&theme=synthwave&show_owner" />
+</a>
 
 <!--
 **ArchiFleKs/archifleks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
