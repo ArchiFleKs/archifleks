@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=archifleks&show_icons=true&theme=synthwave" />
-</a>
+</p>
 <a href="https://github.com/particuleio/symplegma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=symplegma&theme=synthwave" />
 </a>
