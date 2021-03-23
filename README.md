@@ -1,16 +1,19 @@
 ### Hi there 👋
 
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=archifleks&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=archifleks&show_icons=true&theme=nord" />
 </p>
 <a href="https://github.com/particuleio/symplegma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=symplegma&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=symplegma&theme=nord" />
 </a>
 <a href="https://github.com/particuleio/teks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=teks&theme=synthwave&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=teks&theme=nord&show_owner" />
 </a>
 <a href="https://github.com/particuleio/tkap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=tkap&theme=synthwave&show_owner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=tkap&theme=nord&show_owner" />
+</a>
+<a href="https://github.com/particuleio/formation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=particuleio&repo=formation&theme=nord&show_owner" />
 </a>
 <!--
 **ArchiFleKs/archifleks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
